@@ -1,0 +1,78 @@
+*{
+	box-sizing:border-box;
+}
+body{
+	background-image: url("Slike/backgroundop.jpg");
+	font-family: Arial;
+}
+nav.navigacija{
+	margin: 0 auto;
+	width: 400px;
+}
+nav a.navigacija{
+	color: white;
+	font-size: 24px;
+	font-weight: bold;
+	text-decoration:none;
+	padding: 10px;
+}
+nav a.navigacija:hover{
+	color: pink;
+	background-color:white;
+	font-size: 24px;
+	font-weight: bold;
+	text-decoration:none;
+	padding: 10px;
+}
+nav a.natrag{
+	color: white;
+	font-size: 24px;
+	font-weight: bold;
+	text-decoration:none;
+	padding: 10px;
+}
+nav a.natrag:hover{
+	color: pink;
+	background-color:white;
+	font-size: 24px;
+	font-weight: bold;
+	text-decoration:none;
+	padding: 10px;
+}
+.body{
+	width: 75%;
+	margin: 0 auto;
+}
+h1{
+	color: white;
+	font-size: 56px;
+}
+.opis{
+	width: 96,5%;
+	margin:0 auto;
+	padding: 20px;
+	background-color: white;
+}	
+.odjel{
+	float: left;
+	width: 50%;
+	margin: 50px auto;
+	text-align: center;
+	padding: 20px 0;
+	background-color: white;
+	font-weight: bold;
+}
+.images{
+	width:100%;
+	margin:30PX auto;
+}
+img{
+	width:20%;
+	float: left;
+	border: 7px solid white;
+	margin: 0 2.5%;
+}
+.video{
+	width:720px;
+	margin: 20px auto;
+}
